@@ -16,7 +16,7 @@ I will keep this short and sweet, unlike your favourite dessert 😉!
 ## Collaboration
 
 Open to any collaborations, preferably C# but always willing to learn, grow and contribute with others.
-I would LOVE to collaborate on any project that has a **positive** impact to people, communities and the world. 
+I would LOVE to collaborate on any project that has a **positive** impact on people, communities and the world. 
 
 I am currently well-equiped with the following skills (always looking to expand):
 - C#
