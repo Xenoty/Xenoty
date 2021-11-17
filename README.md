@@ -13,7 +13,7 @@ Open to any collaborations, preferably C# but always willing to learn, grow and 
 I would LOVE to collaborate on any project that has a **positive** impact on people, communities and the world. 
 
 I am currently well-equiped with the following skills (always looking to expand):
-- C#, Unity, SQL, dotnet, MVC, WebAPI, HTML, CSS & JS, JAVA
+- C#, Unity, SQL, dotnet, NUnit, MVC, WebAPI, HTML, CSS & JS, JAVA
 
 ### Lets get chatting!
 
