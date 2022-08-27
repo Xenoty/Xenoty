@@ -1,26 +1,18 @@
-## Glad to have you here!
+## 👋 Glad to have you here!
 
 Grab some coffee, kickback, relax and found out more about me ☕.
 
-### Interests
+### 🏄‍♂️ Interests
 
 - Latest & trending technologies
-- Simulations
-- Coding
-- Surfing
-- Hiking
-- Nature
-- Travel
+- Surfing, Hiking, Nature & Travel
 
-### Collaboration
+### 🤝 Collaboration
 
-Open to any collaborations, preferably C# but always willing to learn, grow and contribute with others.
-I would love to collaborate on any project that leaves a **positive** impact on people, communities and the world. 
-
+I would love to collaborate on any project that leaves a `positive` impact on people, communities and the world. 
 I am currently well-equiped with the following skills (always looking to expand):
-- C#, Unity, SQL, dotnet, NUnit, MVC, WebAPI, HTML, CSS & JS, JAVA
+- C#, Unity, SQL, dotnet core, NUnit, MVC, HTML, CSS, JavaScript
 
-### Lets get chatting!
+### 🤙 Lets get chatting!
 
-Lets have a chat over a virtual coffee (don't worry the coffee is on me)!
-Feel free to reach out to me anytime through my email, jacqueso.olivier@gmail.com. Looking forward to hear from you!
+Lets have a chat over a virtual coffee (don't worry the coffee is on me)! Feel free to reach out to me anytime through my email `jacqueso.olivier@gmail.com` or on Discord `Xenoty#9702`. Looking forward to hear from you.
