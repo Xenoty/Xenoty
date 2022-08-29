@@ -24,7 +24,7 @@ Grab some coffee, kickback, relax and found out more about me ☕.
 - ❤️ `Hobbies` - surfing, touch rugby.
 - 💡 `Interests` - Latest tech, simulations, football, rugby.
 - 🏆 `Goals` - Travel the world 🌏 Get my master's in Computer Science 📚
-- ⚡️ `Fun Fact`: Crazy about cats🐱!
+- ⚡️ `Fun Fact` - Crazy about cats🐱!
 
 <h3><img height="20" src="assets/handshake-emoji.gif" style="float:left;"/> Collaboration </h3>
 
@@ -33,7 +33,7 @@ I would love to collaborate on any project that leaves a `positive` impact on pe
 <table>
     <tr>
         <th colspan="2">
-           <h3> <img height="30" src="assets/cat-working.gif" style="float:left"/>Tech Stack</h3>
+           <h3 style="line-height:30px;"><img height="30" src="assets/cat-working.gif" style="float:left"/>Tech Stack<img height="30" src="assets/cat-working.gif"/></h3>
         </th>
     </tr>
     <tr>
