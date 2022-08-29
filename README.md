@@ -1,4 +1,6 @@
-## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://gpvc.arturio.dev/Xenoty">
+## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=xenoty&style=flat-square" align="center" />
+
+<!-- <img src="https://gpvc.arturio.dev/Xenoty"> -->
 
 <div align="left">
     <a href="https://www.linkedin.com/in/jacqueso-olivier/" target="_blank">
