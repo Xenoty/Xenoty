@@ -53,6 +53,8 @@ I would love to collaborate on any project that leaves a `positive` impact on pe
             <img alt="Dotnet" src="https://img.shields.io/badge/-Core-9B4F95?style=for-the-badge&logo=Dotnet&logoColor=white" />
             <img alt="Jira" src="https://img.shields.io/badge/-Jira-2280FA?style=for-the-badge&logo=jira&logoColor=white" />
             <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-2280FA?style=for-the-badge&logo=confluence&logoColor=white" />
+            <img alt="PlasticSCM" src="https://img.shields.io/badge/-PlasticSCM-F16529?style=for-the-badge&logo=plasticscm&logoColor=white" />
+            <img alt="Perforce" src="https://img.shields.io/badge/-Perforce-F16529?style=for-the-badge&logo=perforce&logoColor=white" />
             <img alt="Postman" src="https://img.shields.io/badge/-Postman-F16529?style=for-the-badge&logo=postman&logoColor=white" />
             <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
             <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
