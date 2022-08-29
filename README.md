@@ -1,7 +1,5 @@
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Profile views](https://gpvc.arturio.dev/Xenoty)
 
----
-
 ### I am Jacques <i>(Sz-aark)<i/>
 
 Grab some coffee, kickback, relax and found out more about me ☕.
@@ -11,24 +9,31 @@ Grab some coffee, kickback, relax and found out more about me ☕.
 - ❤️ `Hobbies` - surfing, touch rugby.
 - 💡 `Interests` - Latest tech, simulations, football, rugby.
 - 🏆 `Goals` - Travel the world 🌏 Get my master's in Computer Science 📚
-- ⚡️ Fun Fact: Crazy about cats🐱!
+- ⚡️ `Fun Fact`: Crazy about cats🐱!
 
-<p style="text-align:center;padding-top:10px;">
-    <a href="https://www.linkedin.com/in/jacqueso-olivier/" target="_blank"><img src="https://img.shields.io/badge/-jacqueso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacqueso-olivier/"/></a>
-    <a href="mailto:jacqueso.olivier@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacqueso.olivier@gmail.com"/></a>
-    <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/-Xenoty9702-495DF4?style=flat-square&logo=discord&logoColor=white"/></a>
-    <a href="https://github.com/Xenoty" target="_blank"><img src="https://img.shields.io/github/followers/Xenoty?label=Follow&style=social"/></a>
-</p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/jacqueso-olivier/" target="_blank">
+        <img src="https://img.shields.io/badge/-jacqueso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacqueso-olivier/"/>
+    </a>
+    <a href="mailto:jacqueso.olivier@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacqueso.olivier@gmail.com"/>
+    </a>
+    <a href="https://discord.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Xenoty9702-495DF4?style=flat-square&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Xenoty" target="_blank">
+        <img src="https://img.shields.io/github/followers/Xenoty?label=Follow&style=social"/>
+    </a>
+</div>
 
 <h3><img height="20" src="assets/handshake-emoji.gif" style="float:left;"/> Collaboration </h3>
 
-I would love to collaborate on any project that leaves a `positive` impact on people, communities and the world.
+<p>I would love to collaborate on any project that leaves a `positive` impact on people, communities and the world.</p>
 
 <table>
     <tr>
-        <th colspan="2" style="text-align:left">
-        <img width="30" src="assets/cat-working.gif" style="float:left"/>
-        <h3 style="line-height:30px">Tech Stack</h3>
+        <th colspan="2">
+           <h3> <img height="30" src="assets/cat-working.gif" style="float:left"/>Tech Stack</h3>
         </th>
     </tr>
     <tr>
@@ -45,34 +50,45 @@ I would love to collaborate on any project that leaves a `positive` impact on pe
     <tr>
         <td>Skills & Tools</td>
         <td>
-        <img alt="Dotnet" src="https://img.shields.io/badge/-Core-9B4F95?style=for-the-badge&logo=Dotnet&logoColor=white" />
-        <img alt="Jira" src="https://img.shields.io/badge/-Jira-2280FA?style=for-the-badge&logo=jira&logoColor=white" />
-        <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-2280FA?style=for-the-badge&logo=confluence&logoColor=white" />
-        <img alt="Postman" src="https://img.shields.io/badge/-Postman-F16529?style=for-the-badge&logo=postman&logoColor=white" />
-        <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-        <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img alt="React" src="https://img.shields.io/badge/-React-61D6ED?style=for-the-badge&logo=react&logoColor=black" />
-        <img alt="Figma" src="https://img.shields.io/badge/-Figma-A159FF?style=for-the-badge&logo=figma&logoColor=white" />
-        <img alt="Unity" src="https://img.shields.io/badge/-Unity-7C7C7C?style=for-the-badge&logo=unity&logoColor=white" />
+            <img alt="Dotnet" src="https://img.shields.io/badge/-Core-9B4F95?style=for-the-badge&logo=Dotnet&logoColor=white" />
+            <img alt="Jira" src="https://img.shields.io/badge/-Jira-2280FA?style=for-the-badge&logo=jira&logoColor=white" />
+            <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-2280FA?style=for-the-badge&logo=confluence&logoColor=white" />
+            <img alt="Postman" src="https://img.shields.io/badge/-Postman-F16529?style=for-the-badge&logo=postman&logoColor=white" />
+            <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+            <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+            <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+            <img alt="React" src="https://img.shields.io/badge/-React-61D6ED?style=for-the-badge&logo=react&logoColor=black" />
+            <img alt="Figma" src="https://img.shields.io/badge/-Figma-A159FF?style=for-the-badge&logo=figma&logoColor=white" />
+            <img alt="Unity" src="https://img.shields.io/badge/-Unity-7C7C7C?style=for-the-badge&logo=unity&logoColor=white" />
         </td>
     </tr>
 </table>
 
 <table>
   <tr>
-    <td colspan="2" style="text-align:center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenoty&layout=compact&title_color=ffffff&text_color=3f0f56&hide_border=true&bg_color=70,b429f9,2280FA" /></td>
+    <td colspan="2">
+        <div align="center">
+            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenoty&layout=compact&title_color=ffffff&text_color=3f0f56&hide_border=true&bg_color=70,b429f9,2280FA" />
+        </div>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=xenoty&count_private=true&show_icons=true&hide_border=true&title_color=ffff&text_color=3f0f56&icon_color=3f0f56&bg_color=70,b429f9,2280FA"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenoty&hide_border=true&background=8E48F9&ring=ffffff&fire=f78847&sideNums=ffffff&sideLabels=3f0f56&currStreakLabel=3f0f56&currStreakNum=ffffff&dates=3f0f56"/> </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=xenoty&count_private=true&show_icons=true&hide_border=true&title_color=ffff&text_color=3f0f56&icon_color=3f0f56&bg_color=70,b429f9,2280FA"/>
+    </td>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenoty&hide_border=true&background=8E48F9&ring=ffffff&fire=f78847&sideNums=ffffff&sideLabels=3f0f56&currStreakLabel=3f0f56&currStreakNum=ffffff&dates=3f0f56"/> 
+    </td>
   </tr>
 </table>
 
-<p style="text-align:center">Thank you for stopping by, leave a ⭐ from <a href="https://github.com/Xenoty/Xenoty">Here</a> if you like 😁</p>
+<div align="center">
+    <p>Thank you for stopping by, leave a ⭐ from <a href="https://github.com/Xenoty/Xenoty">Here</a> if you like 😁</p>
+</div>
 
-<p style="text-align:center">
-<img width="200" src="assets/bye.gif"/>
+<div align="center">
+    <img width="200" src="assets/bye.gif"/>
+</div>
 
 <!-- ### Recent Projects
 
