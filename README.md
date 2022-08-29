@@ -1,17 +1,6 @@
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Profile views](https://gpvc.arturio.dev/Xenoty)
 
-### I am Jacques <i>(Sz-aark)<i/>
-
-Grab some coffee, kickback, relax and found out more about me ☕.
-
-- 🇿🇦 `From` Durban, South Africa.
-- 🇳🇿 `Living` in Auckland, New Zealand.
-- ❤️ `Hobbies` - surfing, touch rugby.
-- 💡 `Interests` - Latest tech, simulations, football, rugby.
-- 🏆 `Goals` - Travel the world 🌏 Get my master's in Computer Science 📚
-- ⚡️ `Fun Fact`: Crazy about cats🐱!
-
-<div align="center">
+<div align="left">
     <a href="https://www.linkedin.com/in/jacqueso-olivier/" target="_blank">
         <img src="https://img.shields.io/badge/-jacqueso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacqueso-olivier/"/>
     </a>
@@ -26,9 +15,20 @@ Grab some coffee, kickback, relax and found out more about me ☕.
     </a>
 </div>
 
+### I am Jacques <i>(Sz-aark)<i/>
+
+Grab some coffee, kickback, relax and found out more about me ☕.
+
+- 🇿🇦 `From` Durban, South Africa.
+- 🇳🇿 `Living` in Auckland, New Zealand.
+- ❤️ `Hobbies` - surfing, touch rugby.
+- 💡 `Interests` - Latest tech, simulations, football, rugby.
+- 🏆 `Goals` - Travel the world 🌏 Get my master's in Computer Science 📚
+- ⚡️ `Fun Fact`: Crazy about cats🐱!
+
 <h3><img height="20" src="assets/handshake-emoji.gif" style="float:left;"/> Collaboration </h3>
 
-<p>I would love to collaborate on any project that leaves a `positive` impact on people, communities and the world.</p>
+I would love to collaborate on any project that leaves a `positive` impact on people, communities and the world.
 
 <table>
     <tr>
