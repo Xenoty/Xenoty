@@ -59,6 +59,7 @@ I would love to collaborate on any project that leaves a `positive` impact on pe
             <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
             <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
             <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+            <img alt="Azure" src="https://img.shields.io/badge/-Azure Pipelines-33B2EB?style=for-the-badge&logo=microsoft&logoColor=white" />
             <img alt="React" src="https://img.shields.io/badge/-React-61D6ED?style=for-the-badge&logo=react&logoColor=black" />
             <img alt="Figma" src="https://img.shields.io/badge/-Figma-A159FF?style=for-the-badge&logo=figma&logoColor=white" />
             <img alt="Unity" src="https://img.shields.io/badge/-Unity-7C7C7C?style=for-the-badge&logo=unity&logoColor=white" />
